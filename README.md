@@ -1,4 +1,4 @@
 Hello. 
 This is my project. 
 I hope you enjoy it. 
-T
+My name is Lewis Halpin
